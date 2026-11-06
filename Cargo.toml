@@ -1,0 +1,11 @@
+[package]
+name = "password_generator"
+authors = ["Corvus"]
+readme = "README.md"
+repository = "https://github.com/Crow-or-smth/password_generator"
+license = "MIT"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+rand = "0.10.1"
