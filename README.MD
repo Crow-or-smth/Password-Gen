@@ -8,6 +8,8 @@ You pick a length and a complexity level from 1 to 4. Lower levels give you plai
 
 ## Before you start
 
+You can install the pre-compiled executable
+or
 You'll need Rust installed, version 1.70 or newer. If you don't have it yet, the [official install guide](https://www.rust-lang.org/tools/install)
 
 ## Getting it running
