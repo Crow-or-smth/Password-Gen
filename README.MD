@@ -17,8 +17,8 @@ You'll need Rust installed, version 1.70 or newer. If you don't have it yet, the
 Clone the project and step into its folder:
 
 ```bash
-git clone https://github.com/your-username/rust-password-generator.git
-cd rust-password-generator
+git clone https://github.com/Crow-or-smth/Password-Gen.git
+cd Password-Gen
 ```
 
 The program uses the `rand` crate. If your `Cargo.toml` doesn't already list it, add this:
